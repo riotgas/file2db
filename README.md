@@ -12,7 +12,11 @@ Ready to Use
 To Do list
 
 1) Method for calculate maxlength of columns in file for using to describe table in database
+
 2) Class for choosing Database and for seting configuration
+
 3) Method creates table in database for our records from file
+
 4) Method or class for reading from file and inserting to database
+
 5) Class for logging all events
