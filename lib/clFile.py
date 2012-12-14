@@ -36,6 +36,7 @@ class File:
                 if self.error == False:
                     self.encoding = result
                     return result
+
     # get first line for checking
     def getFirstLine(self):
         result = ""
